@@ -1,0 +1,2 @@
+# first_hibernate_for_myeclipse
+针对myeclipse，使用hibernate的ORM框架进行对数据库(目前使用的是Mysql数据库)的相关数据库操作
